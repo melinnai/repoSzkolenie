@@ -1,1 +1,2 @@
 TO jest plik na masterze
+VROC rulez
