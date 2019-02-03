@@ -1,0 +1,2 @@
+to jest plik do rozdzielenia commitów. 
+Ma numer 2
