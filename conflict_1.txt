@@ -1,4 +1,5 @@
 User GetUser()
 {
+	return new DatabaseUser(index);
 	return new User();
 }
