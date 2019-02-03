@@ -1,1 +1,1 @@
-to jest plik do rozdzielenia commitów
+to jest plik do rozdzielenia commitów _ sprawdzi³am i to dzia³a
